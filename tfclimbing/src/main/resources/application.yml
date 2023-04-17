@@ -1,0 +1,5 @@
+spring.datasource:
+  url: jdbc:postgresql://localhost:5432/tfclimbing
+  username: dev
+  password: climb
+  driver-class-name: org.postgresql.Driver
